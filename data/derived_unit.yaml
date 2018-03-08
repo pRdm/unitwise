@@ -1371,6 +1371,7 @@
 - :names: acre
   :primary_code: "[acr_us]"
   :secondary_code: "[ACR_US]"
+  :symbol: ac
   :scale:
     :value: 160
     :unit_code: "[rd_us]2"
